@@ -1,0 +1,5 @@
+torch>=1.10.0
+networkx>=2.5
+numpy>=1.21.0
+dhg>=0.1.0
+timm>=0.4.0
